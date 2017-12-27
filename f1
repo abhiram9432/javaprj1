@@ -1,4 +1,4 @@
-driverClassName=111
-url=222
-username=333
-password=44444
+driverClassName=com.mysql.jdbc.Driver
+url=mysql:jdbc://localhost:3306/test
+username=root
+password=password
